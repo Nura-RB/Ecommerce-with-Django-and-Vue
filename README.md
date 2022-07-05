@@ -1,6 +1,6 @@
 # Ecommerce-with-Django-and-Vue
 
-to start <python manage.py runserver>
+to start < python manage.py runserver >
 
 go to - localhost:8080
 
